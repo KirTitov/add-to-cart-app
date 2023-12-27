@@ -23,7 +23,7 @@ input {
     color: #3D3B37;
     background-color: #DCE1EB;
     border: 0;
-    padding: 20px;
+    padding: 24px;
     font-size: 20px;
     text-align: center;
     font-family: 'Ubuntu', sans-serif;
@@ -43,7 +43,7 @@ button {
     color: #3D3B37;
     background-color: #FBAA4F;
     border: 0;
-    padding: 20px;
+    padding: 24px;
     border-radius: 8px;
     font-size: 20px;
     text-align: center;
@@ -71,7 +71,7 @@ ul li {
     color: #3D3B37;
     font-size: 20px;
     background-color: #FFFDF8;
-    padding: 20px;
+    padding: 24px;
     border-radius: 8px;
     flex-grow: 1;
     text-align: center;
